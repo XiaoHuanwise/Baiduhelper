@@ -1,0 +1,8 @@
+E:\CJH\C#\Baiduhelper\Baiduhelper\Baiduhelper\bin\Release\Baiduhelper.exe
+E:\CJH\C#\Baiduhelper\Baiduhelper\Baiduhelper\bin\Release\Baiduhelper.pdb
+E:\CJH\C#\Baiduhelper\Baiduhelper\Baiduhelper\bin\Release\AipSdk.dll
+E:\CJH\C#\Baiduhelper\Baiduhelper\Baiduhelper\bin\Release\Newtonsoft.Json.dll
+E:\CJH\C#\Baiduhelper\Baiduhelper\Baiduhelper\bin\Release\Newtonsoft.Json.xml
+E:\CJH\C#\Baiduhelper\Baiduhelper\Baiduhelper\obj\Release\Baiduhelper.csprojResolveAssemblyReference.cache
+E:\CJH\C#\Baiduhelper\Baiduhelper\Baiduhelper\obj\Release\Baiduhelper.exe
+E:\CJH\C#\Baiduhelper\Baiduhelper\Baiduhelper\obj\Release\Baiduhelper.pdb
