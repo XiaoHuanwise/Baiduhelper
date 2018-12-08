@@ -1,5 +1,5 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
+Microsoft Visual Studio Solution File, Format Version 4.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baiduhelper", "Baiduhelper\Baiduhelper.csproj", "{817DE20A-993F-4CBB-9353-FC1F4061F14E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CBaiduhelper", "CBaiduhelper\CBaiduhelper.csproj", "{81546F57-F205-46EA-A3DB-A409F608B777}"

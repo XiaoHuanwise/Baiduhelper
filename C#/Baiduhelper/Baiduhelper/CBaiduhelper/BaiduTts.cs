@@ -5,7 +5,7 @@ namespace CBaiduhelper
 {
     public class BaiduTts
     {
-        public static bool Tts(string TXT, string OPath)
+        public static bool Tts(string txt, string oPath)
         {
             // 设置APPID/AK/SK
             var APP_ID = "14995725";
@@ -22,11 +22,11 @@ namespace CBaiduhelper
                 {"vol", 7}, // 音量
                 {"per", 4}  // 发音人，4：情感度丫丫童声
             };
-            var result = ttsClient.Synthesis(TXT, option);
+            var result = ttsClient.Synthesis(txt, option);
 
             if (result.ErrorCode == 0)  // 或 result.Success
             {
-                File.WriteAllBytes(OPath, result.Data);
+                File.WriteAllBytes(oPath, result.Data);
                 return true;
             }
             else

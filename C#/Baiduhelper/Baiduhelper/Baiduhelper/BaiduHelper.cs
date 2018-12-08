@@ -7,7 +7,7 @@ namespace Baiduhelper
     {
         public static void Main(string[] args)
         {
-            CBaiduhelper.BaiduTts.Tts("众里寻他千百度", "E:\\CJH\\voice.wav");
+            CBaiduhelper.BaiduTts.Tts("众里寻他千百度", "voice.wav");
         }
     }
 }
